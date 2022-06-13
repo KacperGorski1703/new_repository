@@ -1,0 +1,10 @@
+print("powoli mam dosyć")
+print("powoli mam dosyć")
+print("powoli mam dosyć")
+print("powoli mam dosyć")
+print("powoli mam dosyć")
+print("powoli mam dosyć")
+print("powoli mam dosyć")
+print("powoli mam dosyć")
+print("powoli mam dosyć")
+
